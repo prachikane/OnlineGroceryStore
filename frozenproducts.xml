@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <img>pepperoni.jpg</img>
+        <name>Pepporni Pizza</name>
+        <price>13.2</price>
+        <category>Frozen Pizza</category>
+        <count>0</count>
+    </product>
+    <product>
+        <img>berries.avif</img>
+        <name>Berries</name>
+        <price>3.5</price>
+        <category>Frozen Snacks</category>
+        <count>2</count>
+    </product>
+    <product>
+        <img>dumplings.jpeg</img>
+        <name>Dumpling</name>
+        <price>7.6</price>
+        <category>Frozen Meal</category>
+        <count>2</count>
+    </product>
+    <product>
+        <img>pizzas.jpeg</img>
+        <name>Pizza</name>
+        <price>13.2</price>
+        <category>Frozen Pizza</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>chicken.jpeg</img>
+        <name>Chicken</name>
+        <price>15.6</price>
+        <category>Frozen Meat</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>nuggets.jpg</img>
+        <name>Chicken Nuggets</name>
+        <price>14.3</price>
+        <category>Frozen Meat</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>icecream.jpeg</img>
+        <name>Ice Cream</name>
+        <price>15.6</price>
+        <category>Frozen Dessert</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>meat.jpeg</img>
+        <name>Meat</name>
+        <price>22.5</price>
+        <category>Frozen Meat</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>lasagna.jpg</img>
+        <name>Lasagna</name>
+        <price>22.5</price>
+        <category>Frozen Meal</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>momos.jpg</img>
+        <name>Momos</name>
+        <price>12.4</price>
+        <category>Frozen Meal</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>pasta.jpg</img>
+        <name>Pasta</name>
+        <price>3.3</price>
+        <category>Frozen Meal</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>mixveggies.jpeg</img>
+        <name>Mix Vegetables</name>
+        <price>2.4</price>
+        <category>Frozen Meal</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>peas.jpeg</img>
+        <name>Peas</name>
+        <price>2.3</price>
+        <category>Frozen Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>macncheese.jpg</img>
+        <name>Mac and Cheese</name>
+        <price>2.4</price>
+        <category>Frozen Breakfast</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>muffin.jpg</img>
+        <name>Muffin</name>
+        <price>2.3</price>
+        <category>Frozen Breakfast</category>
+        <count>5</count>
+    </product>
+</products>

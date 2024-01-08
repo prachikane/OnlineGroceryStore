@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><products>
+    <product>
+        <img>cheetos.avif</img>
+        <name>Cheetos</name>
+        <price>3.5</price>
+        <category>Snacks</category>
+        <count>24</count>
+    </product>
+    <product>
+        <img>chocolates.avif</img>
+        <name>Chocolates</name>
+        <price>2.6</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>coke.avif</img>
+        <name>Coke</name>
+        <price>4.3</price>
+        <category>Snacks</category>
+        <count>4</count>
+    </product>
+    <product>
+        <img>lays.avif</img>
+        <name>Lays</name>
+        <price>5.6</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>mixnuts.avif</img>
+        <name>Mix Nuts</name>
+        <price>2.5</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>tortillachips.avif</img>
+        <name>Tortilla Chips</name>
+        <price>1.4</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>fries.avif</img>
+        <name>Fries</name>
+        <price>4.3</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+    <product>
+        <img>veggiestraws.webp</img>
+        <name>Veggie Straws</name>
+        <price>3.2</price>
+        <category>Snacks</category>
+        <count>5</count>
+    </product>
+</products>
