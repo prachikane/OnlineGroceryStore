@@ -29,7 +29,6 @@ if(isset($_POST['itemName']) && isset($_POST['itemPrice']) && isset($_POST['quan
         if($currentQuantity < $quantity){
             echo "<script>alert('Item not available. Update inventory.')</script>";                
             header("Location: freshproducts.php");
-
         }
         else{
             $newQuantity = $currentQuantity - $quantity;

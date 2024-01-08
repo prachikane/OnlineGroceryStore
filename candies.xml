@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><products>
     <product>
-        <img>./candy/candycane.avif</img>
+        <img>candycane.avif</img>
         <name>Candy Cane</name>
         <price>3.5</price>
         <category>Candies</category>
         <count>4</count>
     </product>
     <product>
-        <img>./candy/jelly.avif</img>
+        <img>jelly.avif</img>
         <name>Jelly</name>
         <price>2.6</price>
         <category>Candies</category>
         <count>6</count>
     </product>
     <product>
-        <img>./candy/kitkat.avif</img>
+        <img>kitkat.avif</img>
         <name>Kit Kat</name>
         <price>4.3</price>
         <category>Candies</category>
         <count>5</count>
     </product>
     <product>
-        <img>./candy/lindt.avif</img>
+        <img>lindt.avif</img>
         <name>Lindt</name>
         <price>5.6</price>
         <category>Candies</category>
         <count>5</count>
     </product>
     <product>
-        <img>./candy/lollypops.avif</img>
+        <img>lollypops.avif</img>
         <name>Lolly Pops</name>
         <price>2.5</price>
         <category>Candies</category>
         <count>5</count>
     </product>
     <product>
-        <img>./candy/marshmello.avif</img>
+        <img>marshmello.avif</img>
         <name>Marshmello</name>
         <price>1.4</price>
         <category>Candies</category>
         <count>5</count>
     </product>
     <product>
-        <img>./candy/milkchoco.webp</img>
+        <img>milkchoco.webp</img>
         <name>Milk Chocolate</name>
         <price>4.3</price>
         <category>Candies</category>
         <count>5</count>
     </product>
     <product>
-        <img>./candy/snickers.avif</img>
+        <img>snickers.avif</img>
         <name>Snickers</name>
         <price>3.2</price>
         <category>Candies</category>
